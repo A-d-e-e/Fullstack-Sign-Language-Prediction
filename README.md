@@ -13,14 +13,13 @@ An AI-powered full-stack application that translates hand gestures into text and
 - [Future Enhancements](#future-enhancements)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
 ## Features
 
 - **Real-Time Gesture Recognition:** Uses OpenCV and MediaPipe to capture and process live video feed from a webcam.
-- **Machine Learning Integration:** A convolutional neural network (CNN) built with TensorFlow/Keras classifies predefined gestures ("Hello", "Yes", "No", "Fullstop", "ClearSentence").
+- **Machine Learning Integration:** A convolutional neural network (CNN) built with TensorFlow/Keras classifies predefined gestures ("Hello", "Yes", "No", "Fullstop", "ClearSentence"). (Used only a few predefined gestures for prototyping, will use ASL Sign Language Dataset in the future for better results and thousands of sign languages)
 - **Seamless Backend API:** Flask-based REST API communicates with the React frontend, updating the recognized sentence in real time.
 - **Responsive React Frontend:** Displays a live camera feed, recognized gestures, and dynamically updates the translation sentence.
 - **Special Gesture Functions:** 
@@ -142,9 +141,9 @@ With both the backend and frontend running, the system functions as follows:
 
 ## Screenshots
 
-- **Backend Recognition Window:** Show a snapshot of the live camera feed with hand landmarks.
-- **React App Homepage:** Display the live sentence update and camera feed.
-- **Terminal Logs:** Include snippets of training logs and real-time gesture recognition outputs.
+- **Backend Recognition Window:** 
+- **React App Homepage:** 
+- **Terminal Logs:** 
 
 ---
 
