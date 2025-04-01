@@ -102,8 +102,11 @@ An AI-powered full-stack application that translates hand gestures into text and
    | ![Custom Dataset Collection: "How are"](https://github.com/user-attachments/assets/5989bbda-5b48-4b32-8f2a-2a45723bd046) | ![Custom Dataset Collection: "You"](https://github.com/user-attachments/assets/00112fe2-3d7f-4553-936e-02596981c6a0) |
 
    ### Live Feed during data collection:
-     | "Capturing "Hello" |
-     |![Live feed create data](https://github.com/user-attachments/assets/695e9d8e-e863-4153-8891-edd828b54a25)|
+
+   | "Capturing 'Hello'" |
+   |----------------------|
+   | ![Live feed create data](https://github.com/user-attachments/assets/695e9d8e-e863-4153-8891-edd828b54a25) |
+
      
      
 3. **Model Training:**  
