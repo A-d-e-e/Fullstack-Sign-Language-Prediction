@@ -104,7 +104,7 @@ An AI-powered full-stack application that translates hand gestures into text and
    - Live Feed during data collection:
      ```markdown
      ![Live feed create data](https://github.com/user-attachments/assets/695e9d8e-e863-4153-8891-edd828b54a25)
-     ```
+     
      
 3. **Model Training:**  
    Train the model on your collected dataset:
