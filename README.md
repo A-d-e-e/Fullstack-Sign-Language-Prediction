@@ -97,9 +97,9 @@ An AI-powered full-stack application that translates hand gestures into text and
    ```
    - Follow on-screen prompts. Press **c** to capture an image and **q** to quit.
    ### Custom Dataset Collection:
-   | "How are" | "Yes" |
+   | "How are" | "You" |
    |-----------|-------|
-   | ![Custom Dataset Collection: "How are"](https://github.com/user-attachments/assets/5989bbda-5b48-4b32-8f2a-2a45723bd046) | ![Custom Dataset Collection: "Yes"](https://github.com/user-attachments/assets/00112fe2-3d7f-4553-936e-02596981c6a0) |
+   | ![Custom Dataset Collection: "How are"](https://github.com/user-attachments/assets/5989bbda-5b48-4b32-8f2a-2a45723bd046) | ![Custom Dataset Collection: "You"](https://github.com/user-attachments/assets/00112fe2-3d7f-4553-936e-02596981c6a0) |
 
 
 
