@@ -26,7 +26,7 @@ running = True
 
 def gesture_recognition():
     global sentence, running
-    cap = cv2.VideoCapture(1)
+    cap = cv2.VideoCapture(0)
     with mp_hands.Hands(max_num_hands=2, min_detection_confidence=0.8) as hands:
         while running:
             ret, frame = cap.read()
