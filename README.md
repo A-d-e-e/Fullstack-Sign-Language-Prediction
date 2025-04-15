@@ -161,7 +161,8 @@ With both the backend and frontend running, the system functions as follows:
 
 ## Hosting and Deployment
 - Here's what I plan for the future:
--- Once the model is trained on a large dataset
+- Once the model is trained on a large dataset, the project will be deployed over the internet.
+- 
 
 ## Contributing
 
