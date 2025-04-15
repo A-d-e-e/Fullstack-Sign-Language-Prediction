@@ -160,6 +160,8 @@ With both the backend and frontend running, the system functions as follows:
 
 
 ## Hosting and Deployment
+- Here's what I plan for the future:
+--
 ---
 
 ## Contributing
