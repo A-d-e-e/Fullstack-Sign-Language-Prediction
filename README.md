@@ -158,6 +158,8 @@ With both the backend and frontend running, the system functions as follows:
 - **React App Homepage:** 
 - **Terminal Logs:** 
 
+
+## Hosting and Deployment
 ---
 
 ## Contributing
