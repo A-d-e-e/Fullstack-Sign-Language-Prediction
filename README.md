@@ -162,7 +162,7 @@ With both the backend and frontend running, the system functions as follows:
 ## Hosting and Deployment
 - Here's what I plan for the future:
 - Once the model is trained on a large dataset, the project will be deployed over the internet.
-- 
+- I will be using Vercel to host the front-end paired with an environment variable (.env) referencing to the backend API link
 
 ## Contributing
 
