@@ -164,6 +164,7 @@ With both the backend and frontend running, the system functions as follows:
 - Once the model is trained on a large dataset, the project will be deployed over the internet.
 - I will be using Vercel to host the front-end paired with an environment variable (.env) referencing to the backend API link
 - The back-end of the code will be deployed using AWS Lambda, and an HTTP Trigger for API Gateway.
+
 Stay tuned for the updates!
 
 ## Contributing
